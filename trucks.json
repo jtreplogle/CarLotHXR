@@ -1,0 +1,34 @@
+{
+  "trucks": [    
+    {
+      "imgUrl": "hhttp://imganuncios.mitula.net/2014_gmc_sierra_1500_slt_crew_cab_low_miles_carfax_certified_1_owner_36780_bentonville_ar_4000017454958411754.jpg",
+      "make": "GMC",
+      "model": "Superduty HD",
+      "year": "2013",
+      "price": "52,560",
+      "color": "White",
+      "purchased": false,
+      "description": "GMC Superduty HD. Description."
+    },
+    {
+      "imgUrl": "http://www.webclassifieds.us/user_images/6594481.jpg",
+      "make": "Chevy",
+      "model": "Silvarado",
+      "year": "2013",
+      "price": "22,560",
+      "color": "White",
+      "purchased": false,
+      "description": "Chevy Silvarado. Description."
+    },
+    {
+      "imgUrl": "http://www.pdoffroad.com/assets/images/SEIV116BC_l.jpg",
+      "make": "Dodge",
+      "model": "Ram",
+      "year": "2013",
+      "price": "12,560",
+      "color": "Blue",
+      "purchased": false,
+      "description": "Dodge Ram. Description."
+    }
+  ]
+}

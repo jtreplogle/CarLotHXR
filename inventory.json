@@ -1,0 +1,64 @@
+{
+  "cars": [
+    {
+      "imgUrl": "http://madwhips.s3.amazonaws.com/photo_9242_ferrari_488_gtb_228796_fh.jpg",
+      "make": "Ferrari",
+      "model": "488",
+      "year": "2016",
+      "price": "249,900",
+      "color": "Red",
+      "purchased": false,
+      "description": "Ferrari 488. Description"
+    },
+    {
+      "imgUrl": "http://madwhips.s3.amazonaws.com/photo_7931_audi_rs7_201138_fh.jpg",
+      "make": "Audi",
+      "model": "RS-7",
+      "year": "2015",
+      "price": "110,766",
+      "color": "Silver",
+      "purchased": false,
+      "description": "Audi RS-7. Description"
+    },
+    {
+      "imgUrl": "https://madwhips.s3.amazonaws.com/photo_4591_bentley_concours_edition_157777_fh.jpg",
+      "make": "Bentley",
+      "model": "GT",
+      "year": "2016",
+      "price": "234,876",
+      "color": "Black",
+      "purchased": true,
+      "description": "Bentley. Description."
+    },
+    {
+      "imgUrl": "http://imganuncios.mitula.net/dodge_challenger_2013_only_10k_miles_22999_bradenton_3250016454526331132.jpg",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year": "2013",
+      "price": "52,560",
+      "color": "Black",
+      "purchased": false,
+      "description": "Dodge Challenger. Description."
+    },
+    {
+      "imgUrl": "https://madwhips.s3.amazonaws.com/photo_6867_lamborghini_aventador_180365_fh.jpg",
+      "make": "Lamborghini",
+      "model": "Aventador",
+      "year": "2013",
+      "price": "422,560",
+      "color": "Orange",
+      "purchased": true,
+      "description": "Lamborghini Aventador. Description."
+    },
+    {
+      "imgUrl": "https://madwhips.s3.amazonaws.com/photo_5113_first_bmw_i8_roadster_179185_fh.jpg",
+      "make": "BMW",
+      "model": "i8",
+      "year": "2016",
+      "price": "122,560",
+      "color": "Red",
+      "purchased": false,
+      "description": "BMW i8. Description."
+    }
+  ]
+}

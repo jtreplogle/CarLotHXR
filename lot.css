@@ -1,0 +1,73 @@
+body {
+    width: 100%;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.container {
+    width: 95%;
+}
+
+.carCard {
+    display: block;
+    border: 2px solid black;
+    width: 32%;
+    height: 440px;
+    margin: .35em;
+    padding: .35em;
+    float: left;
+}
+
+h2 p {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.sold {
+    color: red;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+/*.yes {
+    color: orange
+    font-style: italic;
+    font-weight: bolder;
+}*/
+
+/*h5 {
+    color: red;
+    font-weight: bolder;
+    font-style: italic;
+}*/
+
+.navbar-form {
+    width: 100%;
+    background-color: lightgrey;
+    display: block;
+    border: 2px dotted black;
+}
+
+.hidden {
+    display: hidden;
+}
+
+img {
+    width: 55%;
+}
+
+
+.selected {
+    border: 10px solid;
+    background-color: lightgrey;
+}
+
+.unselected {
+    border: 2px solid black;
+    background-color: white;
+}
+
+
+
+
+
